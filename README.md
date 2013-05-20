@@ -10,12 +10,12 @@ SOCKS proxy support for rubygems/bundler
 
 gem command with socks proxy:
 
-   SOCKS_PROXY=localhost:1080 gem install xxx
+    SOCKS_PROXY=localhost:1080 gem install xxx
 
 
 bundle command with socks proxy:
 
-   SOCKS_PROXY=localhost:1080 bundle-socks install
+    SOCKS_PROXY=localhost:1080 bundle-socks install
 
 
 ## Contributing
