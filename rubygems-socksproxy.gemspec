@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["egussan@gmail.com"]
   spec.description   = %q{SOCKS proxy support for rubygems/bundler}
   spec.summary       = %q{SOCKS proxy support for rubygems/bundler}
-  spec.homepage      = "http://github.com/gussan/rubygems-socksproxy"
+  spec.homepage      = "https://github.com/gussan/rubygems-socksproxy"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
