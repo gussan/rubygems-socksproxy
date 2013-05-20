@@ -1,24 +1,22 @@
 # Rubygems::Socksproxy
 
-TODO: Write a gem description
+SOCKS proxy support for rubygems/bundler
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'rubygems-socksproxy'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install rubygems-socksproxy
 
 ## Usage
 
-TODO: Write usage instructions here
+gem command with socks proxy:
+
+   SOCKS_PROXY=localhost:1080 gem install xxx
+
+
+bundle command with socks proxy:
+
+   SOCKS_PROXY=localhost:1080 bundle-socks install
+
 
 ## Contributing
 
