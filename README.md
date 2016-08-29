@@ -1,3 +1,5 @@
+# !!This gem is no more maintained. Please use https://github.com/tkeo/command_socksify
+
 # Rubygems::Socksproxy
 
 SOCKS proxy support for rubygems/bundler
